@@ -31,3 +31,6 @@ print(input_list1.count(3))
 
 
 print(input_list1)
+
+
+

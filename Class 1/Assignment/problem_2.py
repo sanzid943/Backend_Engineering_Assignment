@@ -14,3 +14,6 @@ tax=float(result*0.05)
 final_amount=result+tax
 
 print("with tax the total amount is: ", round(final_amount,2))
+
+
+

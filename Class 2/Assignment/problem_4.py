@@ -12,3 +12,6 @@ if age>=18 and is_citizen == "true":
 
 else:
     print("the person can not vote")
+
+
+    

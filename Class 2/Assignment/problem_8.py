@@ -13,3 +13,5 @@ print(slice_2)
 
 slice_3= input_list [4: ]
 print(slice_3)
+
+

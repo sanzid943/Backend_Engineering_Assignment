@@ -16,3 +16,5 @@ number=int(input("enter any number: "))         #fixed code
 result=a+number
 
 print(result)
+
+
