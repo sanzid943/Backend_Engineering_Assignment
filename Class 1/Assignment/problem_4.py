@@ -1,3 +1,8 @@
+"""
+Write a program that intentionally causes a string from TypeError (hint: add a number to a input() ). Run it, copy the error message into a comment, then fix the code so it works. This trains you to read errors — the most important debugging skill.
+
+"""
+
 
 a= 50
 
